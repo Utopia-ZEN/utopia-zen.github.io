@@ -160,3 +160,4 @@ freewheel.tv, 741650, RESELLER
 netmarvel.com, 1011828, RESELLER, ca3509163a633862
 voisetech.com, 1066, RESELLER
 appads.in, 106246, RESELLER
+playdigo.com, 1965, RESELLER
